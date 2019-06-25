@@ -3,7 +3,7 @@ var Nav = require('Nav');
 
 var Main = (props) => {
   return (
-    <div>
+    <div className="main">
       <Nav/>
       <div className="row">
         <div className="column small-centered medium-6 large-4">
